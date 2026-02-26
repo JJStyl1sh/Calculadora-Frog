@@ -23,4 +23,5 @@ Projeto desenvolvido em *React Native* com o objetivo de criar uma calculadora f
 
 ## Prótotipo do FIGMA:
 
-<img width="573" height="748" alt="image" src="https://github.com/user-attachments/assets/080cd5f4-17bd-47c1-80d8-466b3c621751" />
+<img width="590" height="744" alt="image" src="https://github.com/user-attachments/assets/b5652650-6961-4705-b192-02795d5aa3d1" />
+
